@@ -1,4 +1,4 @@
-SMS Spam Detection Project [GROUP NUMBER: 5]
+SMS Spam Detection
 
 Project Overview
 
@@ -53,6 +53,7 @@ Libraries Used
 2. numpy
 3. scikit-learn
 4. nltk
+
 
 
 
